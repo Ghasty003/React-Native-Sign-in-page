@@ -1,2 +1,2 @@
 # React-Native-Sign-in-page
-A simple sign in mobile application page made with React-Native.
+A simple sign in page mobile application made with React-Native.
